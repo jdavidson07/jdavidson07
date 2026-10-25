@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="./banner.svg" alt="Joseph Davidson banner" width="100%"/>
-</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/joe-davidson07"><img src="https://img.shields.io/badge/LinkedIn-joe--davidson07-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Ulster_University-BSc_Computer_Science-1e3a8a?style=for-the-badge" alt="Ulster University"/>
-  <img src="https://img.shields.io/badge/Seeking-Placement_Year-22c55e?style=for-the-badge" alt="Seeking placement"/>
-</p>
 
 ## 👋 About me
 
