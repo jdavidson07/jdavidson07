@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="./banner.svg" alt="Joseph Davidson banner" width="100%"/>
+</p>
 ## 👋 About me
 
 Hi! I'm Joe, a second-year BSc (Hons) Computer Science student at Ulster University in Northern Ireland. I enjoy testing and debugging code to understand how it works, and I'm looking for a placement where I can apply my skills and learn from experienced engineers.
