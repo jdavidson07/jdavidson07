@@ -22,10 +22,6 @@ Right now I'm building a command-line inventory system in Bash and cleaning a CO
 -  **Scouting Organisation**, former member (2015 – 2025)
 
 
-- 🔭 **Building:** a command-line inventory system in Bash, and SQL queries on real-world datasets
-- 👥 **Team work:** an Agile university project planning a minimum viable product, with user stories, story mapping and sprint planning
-- 🌱 **Learning:** Java and object-oriented design, and sustainable software (Green Software Practitioner)
-
 ## 🚀 Projects
 
 | Project | What it is | Tech | Status |
