@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./banner.svg" alt="Joseph Davidson banner" width="100%"/>
+  <img src="./banner.svg" alt="Joe Davidson Banner" width="100%"/>
 </p>
 
 ## 👋 About me
