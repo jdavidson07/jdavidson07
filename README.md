@@ -9,7 +9,7 @@ Hi! I'm Joe, a second-year BSc (Hons) Computer Science student at Ulster Univers
 
 Right now I'm building a command-line inventory system in Bash and cleaning a COVID-19 dataset, executing queries and preforming functions. Part of an Agile team project in university, planning a minimum viable product using user stories, story mapping and sprint planning.
 
-## 🌱 What I do and what I've done:
+## ⚡ What I do and what I've done:
 -  **Women in STEM Society Rep** (Oct 2026 – Present): supporting an inclusive STEM community and planning hackathons and networking events
 -  **Green Software Practitioner**, Green Software Foundation: studied sustainable software development principles
 -  **Senior Leadership Programme Member**, Bangor Academy (Sept 2024 – 2025): mentored younger students
