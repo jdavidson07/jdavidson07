@@ -7,7 +7,7 @@
 
 Hi! I'm Joe, a second-year BSc (Hons) Computer Science student at Ulster University in Northern Ireland. I enjoy testing and debugging code to understand how it works, and I'm looking for a placement where I can apply my skills and learn from experienced engineers.
 
-Right now I'm building a command-line inventory system in Bash and cleaning a COVID-19 dataset, executing queries and preforming functions. Part of an Agile team project in university, planning a minimum viable product using user stories, story mapping and sprint planning.
+Right now I'm building a command-line inventory system in Bash and cleaning a COVID-19 dataset, executing queries and preforming functions. Also part of an Agile team project in university, planning a minimum viable product using user stories, story mapping and sprint planning.
 
 ## ⚡ What I do and what I've done:
 -  **Women in STEM Society Rep** (Oct 2026 – Present): supporting an inclusive STEM community and planning hackathons and networking events
