@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="./banner.svg" alt="Joe Davidson Banner" width="100%"/>
-</p>
 
 ## 👋 About me
 
