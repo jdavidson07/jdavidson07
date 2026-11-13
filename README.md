@@ -18,7 +18,6 @@ Right now I'm building a command-line inventory system in Bash, cleaning a COVID
 | --- | --- | --- | --- |
 | **StressLess** | Stress-support website built with a team of 5, tested for responsiveness and WCAG accessibility. Includes safeguarding code that screens messages for crisis keywords and shows UK helplines, covered by unit tests | JavaScript, React, Vite, Vitest | ✅ Complete |
 | **[StressLess React Migration](https://github.com/jdavidson07/StressLess-React-Project)** | Taught myself React and migrated the site from jQuery/vanilla JS to a component-based architecture with reusable custom hooks | React, JavaScript, Intersection Observer API | ✅ Complete |
-| **Software Product Planning** | Agile team project planning a minimum viable product against business needs, turning requirements into user stories across sprints | Agile, Scrum, User Stories, Story Mapping | 🚧 In progress: November 🎯 |
 | **SQL Data Cleaning** | Cleaning a real-world COVID-19 dataset, using joins and aggregates to compare vaccinations and deaths by country | SQL Server, Excel | 🚧 In progress: November 🎯 |
 | **Inventory Management System** | Command-line inventory system on Ubuntu using shell scripting, directory structures and file permissions | Bash, Git | 🚧 In progress: November 🎯 |
 | **DIY Guitar Effects Pedal** | Real-time guitar effects pedal combining audio, software and hardware | Python, pyo | 📝 Planned |
